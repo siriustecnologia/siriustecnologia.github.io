@@ -1,6 +1,6 @@
 // Coloque aqui o WhatsApp da SIRIUS, somente números e com código do país.
 // Exemplo: const WHATSAPP_NUMBER = "5511999999999";
-const WHATSAPP_NUMBER = "5511994671083";
+const WHATSAPP_NUMBER = "";
 
 const menu = document.querySelector('.menu');
 const links = document.querySelector('.nav-links');
