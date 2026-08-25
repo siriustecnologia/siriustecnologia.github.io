@@ -141,7 +141,7 @@ button,input,textarea{font:inherit}
   box-shadow:0 0 75px rgba(86,181,122,.22)
 }
 .hero-logo{
-  position:relative;
+  position:absolute;
   z-index:2;
   display:block;
   width:445px;
